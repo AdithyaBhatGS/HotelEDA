@@ -1,0 +1,9 @@
+# Ignoring venv
+hospitality_prod/
+
+# Ignoring datasets
+datasets/
+datasets.zip
+
+# Ignoring project into file
+eda_in_Hospitality.txt

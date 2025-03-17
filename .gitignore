@@ -1,6 +1,6 @@
 # Ignoring venv
 hospitality_prod/
-
+hotelEDA_prod
 # Ignoring datasets
 datasets/
 datasets.zip

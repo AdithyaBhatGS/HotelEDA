@@ -2,7 +2,7 @@
 
 ## Description
 
-A exploratory data analysis project where we analyze a large dataset on the hospitality domain to find answer for the decline in the occupancy rates and revenue
+A exploratory data analysis project where we analyze a large dataset on the hospitality domain
 
 In order to perform the analysis I have used jupyter notebook, pandas, matplotlib, numpy etc.
 
@@ -12,3 +12,11 @@ In order to perform the analysis I have used jupyter notebook, pandas, matplotli
 - Data cleaning
 - Data transformation
 - Insights generation
+
+## Generated Insights
+
+- Average occupancy rates across room classes
+- Average occupancy rates according to cities
+- Finding the occupancy rates on weekdays and weekends
+- Total revenue realized per city
+- Revenue realized month by month

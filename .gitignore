@@ -4,5 +4,6 @@ hotelEDAEnvs
 datasets/
 datasets.zip
 
-# Ignoring project into file
-eda_in_Hospitality.txt
+# Ignoring .py authentication script and .sh installation script
+authenticate.py
+scriptToAuthenticate.sh
